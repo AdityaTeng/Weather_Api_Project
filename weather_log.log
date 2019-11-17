@@ -1,0 +1,52 @@
+INFO:root:User choice is l
+INFO:root:invalid entry: l
+INFO:root:User choice is q
+INFO:root:end view
+2019-11-17 11:34:01,581 - 12084 - root - INFO - User choice is hello
+2019-11-17 11:34:01,586 - 12084 - root - INFO - invalid entry: hello
+2019-11-17 11:45:46,159 - 12084 - root - INFO - User choice is n
+2019-11-17 11:45:54,687 - 12084 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2019-11-17 11:45:54,872 - 12084 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?id=1277333&APPID=1960401d79b51d8c3be286b9463a081b HTTP/1.1" 200 13752
+2019-11-17 11:46:48,572 - 12084 - root - INFO - User choice is n
+2019-11-17 11:47:00,766 - 12084 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2019-11-17 11:47:00,859 - 12084 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?id=1277333&APPID=1960401d79b51d8c3be286b9463a081b HTTP/1.1" 200 13752
+2019-11-17 11:47:43,030 - 12084 - root - INFO - User choice is n
+2019-11-17 11:47:54,473 - 12084 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2019-11-17 11:47:54,566 - 12084 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?id=1277333&APPID=1960401d79b51d8c3be286b9463a081b HTTP/1.1" 200 13752
+2019-11-17 11:49:00,991 - 12084 - root - INFO - User choice is q
+2019-11-17 11:49:00,992 - 12084 - root - INFO - end view
+2019-11-17 11:49:00,992 - 12084 - root - INFO - calling get_location()
+2019-11-17 11:49:00,992 - 12084 - root - INFO - calling get_location()
+2019-11-17 11:49:00,992 - 12084 - root - INFO - calling get_location()
+2019-11-17 11:49:04,796 - 21360 - root - INFO - User choice is n
+2019-11-17 11:49:15,019 - 21360 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2019-11-17 11:49:15,117 - 21360 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?id=1277333&APPID=1960401d79b51d8c3be286b9463a081b HTTP/1.1" 200 13752
+2019-11-17 11:50:25,996 - 21360 - root - INFO - User choice is n
+2019-11-17 11:50:43,243 - 21360 - root - INFO - User choice is q
+2019-11-17 11:50:43,244 - 21360 - root - INFO - end view
+2019-11-17 11:50:43,244 - 21360 - root - INFO - calling get_location()
+2019-11-17 11:50:43,244 - 21360 - root - INFO - calling get_location()
+2019-11-17 11:50:50,014 - 17096 - root - INFO - User choice is n
+2019-11-17 11:50:57,475 - 17096 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2019-11-17 11:50:57,574 - 17096 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?id=1277333&APPID=1960401d79b51d8c3be286b9463a081b HTTP/1.1" 200 13752
+2019-11-17 11:53:15,915 - 17096 - root - INFO - User choice is q
+2019-11-17 11:53:15,915 - 17096 - root - INFO - end view
+2019-11-17 11:53:15,916 - 17096 - root - INFO - calling get_location()
+2019-11-17 12:00:23,292 - 8144 - root - INFO - User choice is n
+2019-11-17 12:00:28,159 - 8144 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2019-11-17 12:00:28,262 - 8144 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?id=1261481&APPID=1960401d79b51d8c3be286b9463a081b HTTP/1.1" 200 13604
+2019-11-17 12:00:57,806 - 8144 - root - INFO - User choice is Ahmedabad
+2019-11-17 12:00:57,807 - 8144 - root - INFO - invalid entry: Ahmedabad
+2019-11-17 12:01:10,961 - 8144 - root - INFO - User choice is n
+2019-11-17 12:02:20,423 - 8144 - root - INFO - User choice is n
+2019-11-17 12:02:24,944 - 8144 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): api.openweathermap.org:80
+2019-11-17 12:02:25,079 - 8144 - urllib3.connectionpool - DEBUG - http://api.openweathermap.org:80 "GET /data/2.5/forecast?id=1269743&APPID=1960401d79b51d8c3be286b9463a081b HTTP/1.1" 200 13471
+2019-11-17 12:02:41,479 - 8144 - root - INFO - User choice is Allahabad
+2019-11-17 12:02:41,480 - 8144 - root - INFO - invalid entry: Allahabad
+2019-11-17 12:03:31,241 - 8144 - root - INFO - User choice is n
+2019-11-17 12:03:36,791 - 8144 - root - INFO - User choice is q
+2019-11-17 12:03:36,792 - 8144 - root - INFO - end view
+2019-11-17 12:03:36,792 - 8144 - root - INFO - calling get_location()
+2019-11-17 12:03:36,792 - 8144 - root - INFO - calling get_location()
+2019-11-17 12:03:36,792 - 8144 - root - INFO - calling get_location()
+2019-11-17 12:03:36,792 - 8144 - root - INFO - calling get_location()

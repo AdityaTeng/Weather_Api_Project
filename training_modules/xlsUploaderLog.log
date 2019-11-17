@@ -1,0 +1,19 @@
+WARNING:root:This will get logged to a file
+WARNING:root:ABC User Could not login because of INVALID PASSWORD
+WARNING:root:This is a warning message
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical message
+WARNING:root:This will get logged to a file
+WARNING:root:ABC User Could not login because of INVALID PASSWORD
+WARNING:root:This is a warning message
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical message
+INFO:root:Admin logged in
+INFO:root:ABC User trying to log in
+WARNING:root:This will get logged to a file
+WARNING:root:ABC User Could not login because of INVALID PASSWORD
+DEBUG:root:This is a debug message
+INFO:root:This is an info message
+WARNING:root:This is a warning message
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical message
