@@ -12,6 +12,7 @@ def LocationSearch(location):
 
 	for item in data:
 		if item['name']==location:
+			print(['Success', item['name'], item['country'], item['id']])
 			return ['Success', item['name'], item['country'], item['id']]
 	return ['Failed',location]
 

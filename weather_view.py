@@ -18,9 +18,9 @@ def LocationView():
 	return "\nEnter Location :"
 
 def LocationSuccess(sList):
-	time.sleep(2)
+	# time.sleep(2)
 	print("\nLocation indentified :",sList[0], sList[1],'\n')
-	time.sleep(2)
+	# time.sleep(2)
 	return
 
 def LocationFailed(location):
@@ -29,13 +29,13 @@ def LocationFailed(location):
 
 def ViewWeather(city, country, weather_dict):
 	print("Weather Forecast Details for", city, country,'\n')
-	time.sleep(2)
+	# time.sleep(2)
 	for i in weather_dict:
 		print('date:', weather_dict[i][0])
 		print('temperature:', weather_dict[i][1])
 		print('humidity:', weather_dict[i][2])
 		print('wind speed:', weather_dict[i][3],'\n\n')
-		time.sleep(4)
+		# time.sleep(4)
 	return
 
 
